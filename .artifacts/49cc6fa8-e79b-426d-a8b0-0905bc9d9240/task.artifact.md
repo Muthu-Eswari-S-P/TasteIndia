@@ -1,5 +1,0 @@
-- [ ] Milestone 1: Gradle configuration & dependencies setup (Compose, Navigation, Retrofit, Serialization, Coil, DataStore)
-- [ ] Milestone 2: Data & Network Layer (API models, Retrofit service, MealRepository, offline fixtures, cache/deduplication)
-- [ ] Milestone 3: ViewModel & State Management (RecipeViewModel, search, filters, sorting, favorites DataStore)
-- [ ] Milestone 4: UI Layer & Navigation (NavGraph, RecipeListScreen, RecipeDetailScreen, FavoritesScreen, MainActivity)
-- [ ] Milestone 5: Unit tests & README documentation (4 focused tests, comprehensive README)
